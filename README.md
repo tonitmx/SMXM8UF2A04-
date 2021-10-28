@@ -1,2 +1,2 @@
 # SMXM8UF2A04-
-este es un proyecto de prueba con GIT
+Aquest és el primer projecte de Antonio Molina
